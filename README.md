@@ -1,4 +1,4 @@
-## Hi, I'm Issiaka Mazu
+## Hi, I'm Issiaka Ischolla Babatounde Mazu
 
 Master's graduate in Computer Science from UQAC.
 
