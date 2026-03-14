@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Issiaka Mazu
 
-<!--
-**KingMazu/KingMazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's graduate in Computer Science from UQAC.
 
-Here are some ideas to get you started:
+My interests:
+- Machine Learning
+- Federated Learning Security
+- Cybersecurity
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+Python | Java | JavaScript | SQL | Docker | Linux
+
+Featured Projects:
+- Secure Federated Learning Framework
+- Shapley Value Contribution Analysis
+- Web Application (Laravel + Vue.js)
+
+GitHub: https://github.com/KingMazu
